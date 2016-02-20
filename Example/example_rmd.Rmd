@@ -1,0 +1,25 @@
+---
+title: "Example Markdown"
+output: html_document
+---
+
+This is what happen when you run the R command
+
+```{r}
+
+library(cowsay)
+
+```
+
+You can also embed plots, for example:
+
+```{r}
+say("Go Google Team!", "cow")
+```
+
+```{r}
+
+say("I like Rstudio!", "longcat")
+
+```
+
