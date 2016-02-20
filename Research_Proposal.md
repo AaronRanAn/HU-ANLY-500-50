@@ -7,6 +7,7 @@
 ### 2. blah blah... 
 
 Outline of proposal
+
 1. Define boundary of "Search business"(classical search business/nowadays search related business)
 
 2. Topic: Search business is a winner take all business?
