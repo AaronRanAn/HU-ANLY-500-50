@@ -15,3 +15,5 @@ Outline of proposal
 3. Competitors(apple, youtube, yahoo, etc)
 
 4. data (revenue, market share, )
+
+Useful link: https://www.ventureharbour.com/visualising-size-google-bing-yahoo/
