@@ -16,4 +16,9 @@ Outline of proposal
 
 4. data (revenue, market share, )
 
-Useful link: https://www.ventureharbour.com/visualising-size-google-bing-yahoo/
+
+https://www.ventureharbour.com/visualising-size-google-bing-yahoo/
+http://www.marketwatch.com/investing/stock/goog/financials
+http://csimarket.com/stocks/segments.php?code=YHOO
+http://csimarket.com/stocks/segments.php?code=GOOG
+http://csimarket.com/stocks/segments.php?code=MSFT
